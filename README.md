@@ -10,6 +10,20 @@ Traditional Large Language Models generate responses using their learned knowled
 
 This project implements a basic end-to-end RAG pipeline, covering website data collection, text extraction, preprocessing, document chunking, embedding generation, semantic retrieval, and local LLM-based answer generation.
 
+## 📸 Screenshots
+
+### RAG Workflow
+
+![RAG Workflow](screenshots/Abes_rag_chatbot.png)
+
+### Chatbot in Action — Example 1
+
+![RAG Chatbot Example 1](screenshots/Liveworking01.png)
+
+### Chatbot in Action — Example 2
+
+![RAG Chatbot Example 2](screenshots/Liveworking02.png)
+
 ## ✨ Features
 
 - **Web Crawling:** Collects permitted pages from the ABES website.
